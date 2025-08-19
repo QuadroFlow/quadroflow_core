@@ -1,0 +1,15 @@
+name: quadroflow_core
+description: A visual organization application that combines the simplicity of the Kanban board with the fluidity of an agile workflow.
+
+version: 0.1.0
+homepage: https://softyes.com.br
+repository: https://github.com/QuadroFlow/quadroflow_core
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.25.6
+  lints: ^6.0.0
