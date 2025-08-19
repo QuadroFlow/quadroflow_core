@@ -1,6 +1,6 @@
 import 'package:quadroflow_core/quadroflow_core.dart';
 
 void main() {
-  var awesome = Awesome();
+  final awesome = Awesome();
   print('awesome: ${awesome.isAwesome}');
 }
