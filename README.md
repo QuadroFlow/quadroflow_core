@@ -1,39 +1,32 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+[![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") English](README_EN.md)
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages). 
+<img width="100" height="100" src="readme/logo.png" alt="project logo">
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages). 
--->
+# QuadroFlow | Core
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+![Lançamento no GitHub](https://img.shields.io/github/v/release/QuadroFlow/quadroflow_core?include_prereleases&color=007E7A)
+![Licença](https://img.shields.io/github/license/QuadroFlow/quadroflow_core?color=007E7A)
+![Contribuição](https://img.shields.io/badge/contributions-Closed-007E7A)
 
-## Features
+Pacote com arquivos compartilhados entre os projetos QuadroFlow | Uma aplicação
+de organização visual que combina a simplicidade do quadro Kanban com a fluidez
+de um fluxo de trabalho ágil.
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## 📦 Tecnologias
 
-## Getting started
+![Feito com Dart](https://img.shields.io/badge/frontend-Dart-007E7A)
+![Feito com Flutter](https://img.shields.io/badge/frontend-Flutter-007E7A)
+[![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+* [Dart](https://dart.dev/)
+* [Flutter](https://flutter.dev/)
 
-## Usage
+## 🧑‍💻 Contribuição
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+🚫 Este projeto não está aceitando contribuições externas no momento, pois o
+desenvolvimento principal ainda está em andamento. Fique atento às atualizações!
 
-```dart
-const like = 'sample';
-```
+## 📜 Créditos
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
+* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
