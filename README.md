@@ -8,18 +8,16 @@
 ![Licença](https://img.shields.io/github/license/QuadroFlow/quadroflow_core?color=007E7A)
 ![Contribuição](https://img.shields.io/badge/contributions-Closed-007E7A)
 
-Pacote com arquivos compartilhados entre os projetos QuadroFlow | Uma aplicação
+Pacote com arquivos compartilhados | Uma aplicação
 de organização visual que combina a simplicidade do quadro Kanban com a fluidez
 de um fluxo de trabalho ágil.
 
 ## 📦 Tecnologias
 
-![Feito com Dart](https://img.shields.io/badge/frontend-Dart-007E7A)
-![Feito com Flutter](https://img.shields.io/badge/frontend-Flutter-007E7A)
+![Feito com Dart](https://img.shields.io/badge/package-Dart-007E7A)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
 * [Dart](https://dart.dev/)
-* [Flutter](https://flutter.dev/)
 
 ## 🧑‍💻 Contribuição
 
