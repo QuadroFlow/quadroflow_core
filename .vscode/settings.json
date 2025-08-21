@@ -1,6 +1,19 @@
 {
+  "makefile.configureOnOpen": false,
   "cSpell.words": [
+    "msword",
+    "officedocument",
+    "opendocument",
+    "openxmlformats",
+    "powerpoint",
+    "presentationml",
     "pubspec",
-    "quadroflow"
-  ]
+    "quadroflow",
+    "softyes",
+    "spreadsheetml",
+    "weba",
+    "webp",
+    "wordprocessingml"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.35.1"
 }
