@@ -3,4 +3,5 @@
 library;
 
 export 'src/domain/domain_module.dart';
+export 'src/entities.dart';
 export 'src/enums.dart';
