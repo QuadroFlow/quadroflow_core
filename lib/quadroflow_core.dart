@@ -2,4 +2,5 @@
 /// simplicity of the Kanban board with the fluidity of an agile workflow.
 library;
 
-export 'src/quadroflow_core_base.dart';
+export 'src/domain/domain_module.dart';
+export 'src/enums.dart';

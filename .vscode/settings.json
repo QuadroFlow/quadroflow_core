@@ -1,6 +1,7 @@
 {
   "makefile.configureOnOpen": false,
   "cSpell.words": [
+    "dtos",
     "msword",
     "officedocument",
     "opendocument",
@@ -11,9 +12,10 @@
     "quadroflow",
     "softyes",
     "spreadsheetml",
+    "vaden",
     "weba",
     "webp",
     "wordprocessingml"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/3.35.1"
+  "dart.flutterSdkPath": ".fvm/versions/3.35.2"
 }
