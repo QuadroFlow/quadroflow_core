@@ -17,5 +17,5 @@
     "webp",
     "wordprocessingml"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/3.35.2"
+  "dart.flutterSdkPath": ".fvm/versions/3.35.3"
 }
